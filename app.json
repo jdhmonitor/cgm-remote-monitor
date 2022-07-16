@@ -153,4 +153,7 @@
       "required": false 
     }
   },
+  "addons": [
+    "papertrail"
+  ]
 }
